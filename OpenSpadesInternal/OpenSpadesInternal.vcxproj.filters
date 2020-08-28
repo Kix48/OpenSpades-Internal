@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Overlay.h">
+      <Filter>Src\Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.hpp">
+      <Filter>Src\Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Visuals.hpp">
+      <Filter>Src\Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.hpp">
+      <Filter>Src\Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot.hpp">
+      <Filter>Src\Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.hpp">
+      <Filter>Src\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook.hpp">
+      <Filter>Src\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.hpp">
+      <Filter>Src\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.hpp">
+      <Filter>Src\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.hpp">
+      <Filter>Src\Globals</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Src">
+      <UniqueIdentifier>{1af79d2b-8655-482d-a819-816f15417624}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Overlay">
+      <UniqueIdentifier>{0dbc76df-82bc-4cac-a65e-efd961e7cd6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Hacks">
+      <UniqueIdentifier>{6721f340-ae37-4b47-a964-35b15084c651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Helpers">
+      <UniqueIdentifier>{f024441e-7dff-40bd-b99c-ba14b21d8571}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Globals">
+      <UniqueIdentifier>{fe88f3ae-0a55-45f4-a8b7-b91b6f2d9c36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Overlay.cpp">
+      <Filter>Src\Overlay</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
