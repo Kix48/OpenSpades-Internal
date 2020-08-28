@@ -2,11 +2,17 @@
 Internal hack for Open Spades
 
 Features:
+
 -Aimbot(Smoothing can be changed in source)
+
 -Esp(Simple boxes with tracelines)
+
 -NoRecoil
+
 -NoSpread
+
 -ShootThroughWalls
+
 -MaxShot(Allows for bullets to register past the 128 unit limit)
 
 How To Use:
