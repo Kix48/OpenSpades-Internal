@@ -1,5 +1,5 @@
 # OpenSpades-Internal
-Internal hack for Open Spades
+Internal hack for OpenSpades
 
 Features:
 
