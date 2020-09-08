@@ -1,6 +1,8 @@
 # OpenSpades-Internal
 Internal hack for OpenSpades
 
+Video: https://www.youtube.com/watch?v=1H5N9EoSlK8
+
 Features:
 
 -Aimbot(Smoothing can be changed in source)
